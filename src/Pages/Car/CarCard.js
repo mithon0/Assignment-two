@@ -2,7 +2,7 @@ import React from 'react';
 import { FaUserFriends,FaGasPump,FaTachometerAlt, FaRegHeart } from "react-icons/fa";
 import { GiSteeringWheel } from "react-icons/gi";
 const CarCard = ({car}) => {
-        const{MilesPerLiter,CarPictureURL,CarMake,CarModel,ReleaseYear,SeatNumber,RentPricePerMonth,DriveAutomatic,FuelType,}=car;
+        const{MilesPerLiter,CarPictureURL,CarName,ReleaseYear,SeatNumber,RentPricePerMonth,DriveAutomatic,FuelType,}=car;
 
     return (
         <div className='mx-auto bg-blue-50 p-4 my-2 rounded-xl'>
@@ -10,7 +10,7 @@ const CarCard = ({car}) => {
             <img className='w-full rounded-xl h-52' src={CarPictureURL} alt="" />
            </div>
            <div className='flex justify-between items-center mt-4 mx-2'>
-                <h1 className='text-lg font-bold'>{CarMake} {CarModel}</h1>
+                <h1 className='text-lg font-bold'>{CarName}</h1>
                 <div className='px-2 border-dashed border-2 font-semibold  border-blue-600 rounded-full'>
                     <p>{ReleaseYear}</p>
                 </div>

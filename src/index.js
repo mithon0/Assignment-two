@@ -8,10 +8,11 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import { router } from './router/router';
+import DataProvide from './Provider/DataProvide';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <RouterProvider router={router}></RouterProvider>
+    <DataProvide><RouterProvider router={router}></RouterProvider></DataProvide>
   </React.StrictMode>
 );
 

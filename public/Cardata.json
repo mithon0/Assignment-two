@@ -1,6 +1,6 @@
 [
     {
-        "CarMake": "Toyota",
+        "CarName": "Toyota Camry",
         "CarModel": "Camry",
         "ReleaseYear": 2022,
         "SeatNumber": 5,
@@ -11,7 +11,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Honda",
+        "CarName": "Honda Civic",
         "CarModel": "Civic",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -22,7 +22,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1605816988069-b11383b50717?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1488&q=80"
     },
     {
-        "CarMake": "Ford",
+        "CarName": "Ford F-150",
         "CarModel": "F-150",
         "ReleaseYear": 2020,
         "SeatNumber": 3,
@@ -33,7 +33,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1590053936004-faca6038bfec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Chevrolet",
+        "CarName": "Chevrolet Malibu",
         "CarModel": "Malibu",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -44,7 +44,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1607944379878-5e1043baec98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80"
     },
     {
-        "CarMake": "Nissan",
+        "CarName": "Nissan Altima",
         "CarModel": "Altima",
         "ReleaseYear": 2022,
         "SeatNumber": 5,
@@ -55,7 +55,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1581540222194-0def2dda95b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Toyota",
+        "CarName": "Toyota Rav4",
         "CarModel": "Rav4",
         "ReleaseYear": 2023,
         "SeatNumber": 5,
@@ -66,7 +66,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1622210642960-0f6a2cdbdc9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Honda",
+        "CarName": "Honda Accord",
         "CarModel": "Accord",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -77,7 +77,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1634737581963-5a22ba471961?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1543&q=80"
     },
     {
-        "CarMake": "Ford",
+        "CarName": "Ford Explorer",
         "CarModel": "Explorer",
         "ReleaseYear": 2020,
         "SeatNumber": 7,
@@ -88,7 +88,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1670069249893-412e3a597dc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Chevrolet",
+        "CarName": "Chevrolet Equinox",
         "CarModel": "Equinox",
         "ReleaseYear": 2022,
         "SeatNumber": 5,
@@ -99,7 +99,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1521657142174-c7353dc830cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
     },
     {
-        "CarMake": "Nissan",
+        "CarName": "Nissan Sentra",
         "CarModel": "Sentra",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -110,7 +110,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1592365559101-19adfefdf294?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Toyota",
+        "CarName": "Toyota Corolla",
         "CarModel": "Corolla",
         "ReleaseYear": 2023,
         "SeatNumber": 5,
@@ -121,7 +121,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1623869675781-80aa31012a5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1454&q=80"
     },
     {
-        "CarMake": "Honda",
+        "CarName": "Honda Pilot",
         "CarModel": "Pilot",
         "ReleaseYear": 2022,
         "SeatNumber": 7,
@@ -132,7 +132,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1490902931801-d6f80ca94fe4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Ford",
+        "CarName": "Ford Escape",
         "CarModel": "Escape",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -143,7 +143,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1533788122296-adc237562388?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Chevrolet",
+        "CarName": "Chevrolet Silverado",
         "CarModel": "Silverado",
         "ReleaseYear": 2022,
         "SeatNumber": 5,
@@ -154,7 +154,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1647698848537-c72bd8049ed0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80"
     },
     {
-        "CarMake": "Nissan",
+        "CarName": "Nissan Maxima",
         "CarModel": "Maxima",
         "ReleaseYear": 2023,
         "SeatNumber": 5,
@@ -165,7 +165,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1542228261-89eed3d81d98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Toyota",
+        "CarName": "Toyota Highlander",
         "CarModel": "Highlander",
         "ReleaseYear": 2020,
         "SeatNumber": 7,
@@ -176,7 +176,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1600462456909-5d0014aa313d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1400&q=80"
     },
     {
-        "CarMake": "Honda",
+        "CarName": "Honda Fit",
         "CarModel": "Fit",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -187,7 +187,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1635702820786-a10548e3732f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1490&q=80"
     },
     {
-        "CarMake": "Ford",
+        "CarName": "Ford Mustang",
         "CarModel": "Mustang",
         "ReleaseYear": 2022,
         "SeatNumber": 4,
@@ -198,7 +198,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1547744152-14d985cb937f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Chevrolet",
+        "CarName": "Chevrolet Cruze",
         "CarModel": "Cruze",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -209,7 +209,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1468415676748-acbcf43dd6e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Nissan",
+        "CarName": "Nissan Murano",
         "CarModel": "Murano",
         "ReleaseYear": 2020,
         "SeatNumber": 5,
@@ -220,7 +220,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1490902931801-d6f80ca94fe4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Toyota",
+        "CarName": "Toyota Sienna",
         "CarModel": "Sienna",
         "ReleaseYear": 2021,
         "SeatNumber": 7,
@@ -231,7 +231,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1524095838546-2d9b8d00f212?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Honda",
+        "CarName": "Honda HR-V",
         "CarModel": "HR-V",
         "ReleaseYear": 2023,
         "SeatNumber": 5,
@@ -242,7 +242,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1658215704824-88a80b76c98b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Ford",
+        "CarName": "Ford Expedition",
         "CarModel": "Expedition",
         "ReleaseYear": 2020,
         "SeatNumber": 8,
@@ -253,7 +253,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1609361528403-2b64dae24628?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Chevrolet",
+        "CarName": "Chevrolet Traverse",
         "CarModel": "Traverse",
         "ReleaseYear": 2022,
         "SeatNumber": 7,
@@ -264,7 +264,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1515616722661-1ded9546100d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Nissan",
+        "CarName": "Nissan Versa",
         "CarModel": "Versa",
         "ReleaseYear": 2021,
         "SeatNumber": 5,
@@ -275,7 +275,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1688132114332-45aa0557b155?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Toyota",
+        "CarName": "Toyota Avalon",
         "CarModel": "Avalon",
         "ReleaseYear": 2023,
         "SeatNumber": 5,
@@ -286,7 +286,7 @@
         "CarPictureURL": "https://images.unsplash.com/photo-1508974239320-0a029497e820?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
     },
     {
-        "CarMake": "Honda",
+        "CarName": "Honda Odyssey",
         "CarModel": "Odyssey",
         "ReleaseYear": 2022,
         "SeatNumber": 8,
