@@ -6,27 +6,9 @@ import { dataContext } from '../../Provider/DataProvide';
 
 const Car = () => {
     const{carData,searchData}=useContext(dataContext)
-    const data =useLoaderData()
-    // console.log(data)
-// <<<<<<<<<<<<<<<<<<<<<<<<<option1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-//     let totalCarData = 0;
-// for (let i = 0; i < data.length; i++) {
-
-//    // if entity is object, increase objectsLen by 1, which is the stores the total number of objects in array.
-//    if (data[i] instanceof Object) {
-//     totalCarData++;
-//    }
-// }
-// <<<<<<<<<<<<<<<<<option2>>>>>>>>>>>>>>>>>>>>>>>>>>
-  const numberOfItems = data.length;
-
-// console.log(numberOfItems)
- 
-    // console.log(carData)
-
-
-
-    // search function
+    
+    
+   
 
     console.log(searchData)
    

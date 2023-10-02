@@ -12,8 +12,8 @@ import Car from "../Pages/Car/Car";
       children:[
         {
           path:"/",
-          element:<Car></Car>,
-          loader:()=>fetch("Cardata.json")
+          element:<Car></Car>
+        
         }
       ]
     },
